@@ -1,7 +1,7 @@
 # Employee
 Simple project to illustrate the concept of OOP and with a test cases using motcha and chai assertion library
 
-This is a project demonstrates the use of OOP using Employee as scenario.
+This project demonstrates the use of OOP using Employee as scenario.
 It also includes several test cases for handling the project test
 
 # concept of the project.
