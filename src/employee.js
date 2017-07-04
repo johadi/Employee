@@ -1,3 +1,6 @@
+/*
+* this is the based class for all employees of any type
+* */
 class Employee{
     constructor(staff_id,name,basic_salary){
         this._staff_id=staff_id;
@@ -21,6 +24,9 @@ class Employee{
     }
     setBasicSalary(basic_salary){
         this._basic_salary=basic_salary;
+    }
+    calculateNetSalary(){
+        return this.getBasicSalary();
     }
 
 }
