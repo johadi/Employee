@@ -4,7 +4,7 @@ Simple project to illustrate the concept of OOP and with a test cases using motc
 This is a project demonstrates the use of OOP using Employee as scenario.
 It also includes several test cases for handling the project test
 
-#concept of the project.
+# concept of the project.
 1. Employee : an ordinary employee who receives basic salary
 2. Hourly Rated Employee : a category of Employee who receives no salary, 
 he/she is only paid based on the hours he worked and the hourly rate atttached to the job.
