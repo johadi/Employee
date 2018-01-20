@@ -7,7 +7,7 @@ It also includes several test cases for handling the project test
 # concept of the project.
 1. Employee : an ordinary employee who receives basic salary
 2. Hourly Rated Employee : a category of Employee who receives no salary, 
-he/she is only paid based on the hours he worked and the hourly rate atttached to the job.
+he/she is only paid based on the hours worked and the hourly rate attached to the job.
 3. Commission Based Employee : this category of Employee receives basic salary and an additional commission
 based on the sales volumes he/she made and the commission rate assign to the job.
 
